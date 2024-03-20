@@ -1,7 +1,7 @@
 {
-  "skill_id": "ovos-skill-zork3-game.jarbasai",
-  "source": "https://github.com/JarbasSkills/ovos-skill-zork3-game",
-  "package_name": "ovos-skill-zork3-game",
+  "skill_id": "ovos-skill-zork0-game.jarbasai",
+  "source": "https://github.com/JarbasSkills/ovos-skill-zork0-game",
+  "package_name": "ovos-skill-zork0-game",
   "extra_plugins": {
     "core": [],
     "PHAL": [],
